@@ -1,0 +1,10 @@
+# ============================================================
+# Project 02 : Hospital Management System
+# File        : requirements.txt
+# Purpose     : Python package dependencies
+# ============================================================
+
+# No external packages required.
+# The project currently uses only Python standard library.
+
+# Python 3.10+

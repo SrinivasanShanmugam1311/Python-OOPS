@@ -1,0 +1,23 @@
+# ============================================================
+# Project 01 : Bank Management System
+# File        : requirements.txt
+# ============================================================
+
+# ------------------------------------------------------------
+# External Dependencies
+# ------------------------------------------------------------
+# None
+#
+# This project currently uses only Python Standard Library
+# modules.
+#
+# Examples:
+#
+#   abc
+#   dataclasses
+#   datetime
+#   unittest
+#
+# These modules are included with Python and do not need
+# to be installed using pip.
+# ------------------------------------------------------------
